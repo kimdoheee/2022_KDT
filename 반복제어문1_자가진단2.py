@@ -8,7 +8,6 @@ while i <= num:
     if num <= 100:
         total += i # num 1 부터 total 변수에 저장
         i += 1 # num 1씩 증가
-
     else:
         print("100 이하의 숫자를 입력해주세요")
         break;
